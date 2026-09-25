@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Danino Family//Bar Mitzvah RSVP//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eliav-danino-bar-mitzvah-20261014@rsvp
+DTSTAMP:20260925T120000Z
+DTSTART:20261014T163000Z
+DTEND:20261014T203000Z
+SUMMARY:בר המצווה של אליאב דנינו
+LOCATION:אולמי טופז\, עכו
+DESCRIPTION:אנו שמחים להזמינכם לשמחת בר המצווה
+  של בננו אליאב הי״ו.\nנשמח לראותכם בין אור
+ חינו!\nבאהבה\, יוחאי ואורית דנינו והמשפחה
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

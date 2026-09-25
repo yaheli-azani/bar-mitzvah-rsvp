@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Danino Family//Bar Mitzvah RSVP//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:eliav-danino-bar-mitzvah-20261014@rsvp
+DTSTAMP:20260925T120000Z
+DTSTART:20261014T163000Z
+DTEND:20261014T203000Z
+SUMMARY:Eliav Danino's Bar Mitzvah
+LOCATION:אולמי טופז\, עכו
+DESCRIPTION:Join us to celebrate Eliav Danino's Bar Mitzvah.\nWe look forwa
+ rd to seeing you!\nWith love\, Yochai & Orit Danino and family
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
